@@ -1,14 +1,14 @@
 {
-    "name": "notadd/administration",
+    "name": "live/administration",
     "description": "Notadd's Administration Module.",
     "type": "notadd-module",
     "keywords": ["notadd", "cms", "administration", "extension"],
-    "homepage": "https://notadd.com",
+    "homepage": "https://uxiao.xin",
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "Notadd",
-            "email": "notadd@ibenchu.com"
+            "email": "uxiao@ibenchu.com"
         }
     ],
     "autoload": {

@@ -68,7 +68,7 @@
         <div class="background five"></div>
         <div class="background six"></div>
         <i-form :model="form" :label-width="0" ref="form" :rules="rules">
-            <div class="title">Notadd 管理后台</div>
+            <div class="title">直播管理后台</div>
             <form-item label="" prop="username">
                 <i-input icon="person" v-model="form.username" placeholder="请输入账号"></i-input>
             </form-item>

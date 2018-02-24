@@ -221,7 +221,7 @@
             <div class="layout-content-main">
                 <router-view></router-view>
             </div>
-            <div class="layout-copy" v-if="!design">2017 &copy; Notadd</div>
+            <div class="layout-copy" v-if="!design">2018 &copy; 一对一直播</div>
         </div>
     </div>
 </template>
