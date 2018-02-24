@@ -58,7 +58,7 @@ class SystemInformation
                         'content' => [
                             [
                                 'content' => [
-                                    'Notadd 版本：',
+                                    '系统版本：',
                                 ],
                                 'style'   => [
                                     'display'   => 'block',
